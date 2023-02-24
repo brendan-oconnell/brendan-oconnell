@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Brendan O'Connell!</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Full-stack developer & librarian</h3>
 
-- 🔭 I’m currently working on [One Degree Design](http://www.onedegreedesign.com/)
+- 🔭 I currently work for [Zotero](https://www.zotero.org) as Outreach Coordinator.
 
-- 🌱 I’m learning **React**
+- 🌱 I’m learning to develop [Zotero translators](https://github.com/zotero/translators/)
 
-- 📫 Get in touch: **brendan.c.oconnell@gmail.com**
+- 📫 Get in touch: **boconnell1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
