@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brendan O'Connell!</h1>
 <h3 align="center">Full-stack developer & librarian</h3>
 
-- 🔭 I currently work for [Zotero](https://www.zotero.org) as Outreach Coordinator.
+- 🔭 I currently work for [Zotero](https://www.zotero.org) as [Outreach Coordinator](https://www.zotero.org/blog/zotero-webinars-for-librarians/).
 
 - 🌱 I’m learning to develop [Zotero translators](https://github.com/zotero/translators/)
 
