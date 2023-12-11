@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Brendan O'Connell!</h1>
-<h3 align="center">Full-stack developer & instructional designer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- I've worked for [Zotero](https://www.zotero.org) as [Outreach Coordinator](https://www.zotero.org/blog/zotero-webinars-for-librarians/) since 2022, where I develop [Zotero translators](https://github.com/zotero/translators/) and engage with the Zotero user community and librarians to provide targeted training and instructional materials.
+-Software Engineer at [Open Book Publishers](https://www.openbookpublishers.com).
+- Previously worked for [Zotero](https://www.zotero.org) as [Outreach Coordinator](https://www.zotero.org/blog/zotero-webinars-for-librarians/), where I developed [Zotero translators](https://github.com/zotero/translators/) and engaged with the Zotero user community and librarians to provide targeted training and instructional materials.
 
 - 📫 Get in touch: **boconnell1@gmail.com**
 
