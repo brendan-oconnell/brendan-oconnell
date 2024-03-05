@@ -12,6 +12,8 @@
 <a href="https://www.linkedin.com/in/brendan-c-oconnell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jade-cormier-54758b64" height="30" width="40" /></a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
