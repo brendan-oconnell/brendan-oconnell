@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,docker,graphql,heroku,js,postgres,py,rails,ruby,vscode,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,postgres,docker,graphql,heroku,js,rails,ruby,vscode,wordpress&theme=light)](https://skillicons.dev)
 
 
 <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
