@@ -15,7 +15,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=rust,docker,graphql,heroku,js,postgres,py,rails,ruby,vscode,wordpress&theme=light)](https://skillicons.dev)
 
 
