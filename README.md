@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brendan O'Connell!</h1>
 <h3 align="center">Software Engineer</h3>
 
-- Software Engineer at [Open Book Publishers](https://www.openbookpublishers.com), mostly working on [Thoth](https://thoth.pub) as part of the [Open Book Futures](https://copim.pubpub.org/open-book-futures-project) project.
+- Software Engineer at [Thoth](https://thoth.pub).
 - Previously worked for [Zotero](https://www.zotero.org), where I developed [Zotero translators](https://github.com/zotero/translators/).
 
 - 📫 Get in touch: **boconnell1@gmail.com**
