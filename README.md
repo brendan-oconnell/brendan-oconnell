@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Brendan O'Connell!</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Platform Manager</h3>
 
-- Software Engineer at [Thoth](https://thoth.pub).
-- Previously worked for [Zotero](https://www.zotero.org), where I developed [Zotero translators](https://github.com/zotero/translators/).
-
-- 📫 Get in touch: **boconnell1@gmail.com**
+- Software Engineer at [DOAJ](https://www.doaj.org).
+- Previously worked for [Thoth](https://thoth.pub) as a Software Engineer and [Zotero](https://www.zotero.org).
 
 <h3 align="left">Languages and Tools:</h3>
 
