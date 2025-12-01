@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brendan O'Connell!</h1>
 <h3 align="center">Platform Manager</h3>
 
-- Software Engineer at [DOAJ](https://www.doaj.org).
+- Platform Manager at [DOAJ](https://www.doaj.org).
 - Previously worked for [Thoth](https://thoth.pub) as a Software Engineer and [Zotero](https://www.zotero.org).
 
 <h3 align="left">Languages and Tools:</h3>
